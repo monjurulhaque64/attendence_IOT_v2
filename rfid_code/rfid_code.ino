@@ -9,8 +9,8 @@
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 // Enter Google Script Deployment ID:
-const char *GScriptId = "AKfycbxpEg15N75GsHYNJbv-24ELCcoHYzo3YZu0MNdYRFSlh1bV6abGra5cy6NmiDqHG4aA3A";
-String gate_number = "Gate2";
+const char *GScriptId = "Enter Deployment ID";
+String gate_number = "Gate1";
 
 // Enter network credentials:
 const char *ssid = "57";
